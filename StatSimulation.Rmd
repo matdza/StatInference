@@ -117,7 +117,9 @@ Note that the true rate, $\lambda$ is 5.
   
 Since, we consider the distribution of averages of exponentials, the standard deviation of this distribution already incorporates the \(\sqrt{n}\) term i.e. it is the standard error.
 
-The confidence interval is given by `r mean(row_means) + c(-1, 1) * 1.96 * sd(row_means)`  
+The confidence interval is given by `r mean(row_means) + c(-1, 1) * 1.96 * sd(row_means)` 
+
+Goto to see the results  : http://rpubs.com/matdza/77018
   
     
 
