@@ -2,7 +2,7 @@
 title: "Statistical Inference - Course Project#2 - Basic inferential data analysis"
 author: "Dzaringana Mate"
 date: "2015 -04-26"
-output: html_document
+output: pdf_document
 ---
 
 # Part#2 Basic Inferential Data Analysis  

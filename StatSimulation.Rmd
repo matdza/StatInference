@@ -1,8 +1,8 @@
 ---
-Project title: "Statistical Inference - Course Project"
-Name of author: "Dzaringana Mate"
-Date Created: "2015 -04-26"
-output: html_document
+Date Created: 2015 -04-26
+Name of author: Dzaringana Mate
+Project title: Statistical Inference - Course Project
+output: pdf_document
 ---
   
 # Part#1 Simulation Exercise
